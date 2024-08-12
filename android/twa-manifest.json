@@ -1,0 +1,42 @@
+{
+  "packageId": "xyz.neonvagabond.tranarchy.twa",
+  "host": "tranarchy.neonvagabond.xyz",
+  "name": "Cinny",
+  "launcherName": "Cinny",
+  "display": "standalone",
+  "themeColor": "#262626",
+  "themeColorDark": "#000000",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#1A1A1A",
+  "enableNotifications": true,
+  "startUrl": "/",
+  "iconUrl": "https://tranarchy.neonvagabond.xyz/public/android/android-chrome-512x512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "/app/android.keystore",
+    "alias": "android"
+  },
+  "appVersionName": "410",
+  "appVersionCode": 410,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://tranarchy.neonvagabond.xyz/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://tranarchy.neonvagabond.xyz/",
+  "minSdkVersion": 19,
+  "orientation": "portrait",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "appVersion": "410"
+}
